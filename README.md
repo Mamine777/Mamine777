@@ -1,12 +1,6 @@
 ## Welcome to Amine space
 
-👋 Hi, I'm Amine, a 19-year-old entrepreneur and passionate feature developer. 🚀
-
- ### 🔧 Skills:
-- Software Development
-- Entrepreneurship
-- Problem Solving
-- Collaboration
+👋 Hi, I'm Amine, a 20 -year-old full-stack-developer && a software engineer student at 42_network. 🚀
 
 ### About myself
 
