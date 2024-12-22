@@ -16,6 +16,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
@@ -26,9 +28,8 @@
 
 ## 📫 How to reach me
 
-- Email: [Mamine777@example.com](mailto:Mamine777@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
+- Email: [Mamine777@example.com](mailto:amine79801kar@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/m-amine-kariouh)
 
 ## 📝 Recent Blog Posts
 
@@ -37,9 +38,9 @@
 
 ## 📚 Projects
 
-- [Project 1](https://github.com/Mamine777/project1) - Brief description of project 1.
-- [Project 2](https://github.com/Mamine777/project2) - Brief description of project 2.
-- [Project 3](https://github.com/Mamine777/project3) - Brief description of project 3.
+- [Project 1](https://github.com/Mamine777/MiniShell) - rewriting shell using C.
+- [Project 2](https://github.com/Mamine777/So_Long) - creating a 2 game using C.
+- [Project 3](https://github.com/Mamine777/Philisopher) - creating a program that solves the multiple thread complex using C.
 
 ## 🌟 Highlights
 
@@ -48,9 +49,6 @@
 
 ## 🏆 Achievements
 
-- Achievement 1
-- Achievement 2
-- Achievement 3
 
 ## 💬 Let's Connect!
 
@@ -58,9 +56,4 @@ Feel free to reach out if you want to collaborate on a project, need any help, o
 
 ---
 
-*This README was generated with ❤️ by [GitHub Copilot](https://github.com/features/copilot)*
-
-<!---
-Mamine777/Mamine777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*This README was generated with ❤️ by M amine kariouh
