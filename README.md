@@ -28,8 +28,8 @@
 
 ## 📫 How to reach me
 
-- Email: [Mamine777@example.com](mailto:amine79801kar@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/m-amine-kariouh)
+- Email: [email me](mailto:amine79801kar@gmail.com)
+- LinkedIn: [inkedIn Profile](https://www.linkedin.com/in/m-amine-kariouh)
 
 ## 📝 Recent Blog Posts
 
@@ -38,9 +38,9 @@
 
 ## 📚 Projects
 
-- [Project 1](https://github.com/Mamine777/MiniShell) - rewriting shell using C.
-- [Project 2](https://github.com/Mamine777/So_Long) - creating a 2 game using C.
-- [Project 3](https://github.com/Mamine777/Philisopher) - creating a program that solves the multiple thread complex using C.
+- [Minishell](https://github.com/Mamine777/MiniShell) - rewriting shell using C.
+- [SoLong](https://github.com/Mamine777/So_Long) - creating a 2 game using C.
+- [Philosophers](https://github.com/Mamine777/Philisopher) - creating a program that solves the multiple thread complex using C.
 
 ## 🌟 Highlights
 
@@ -48,7 +48,6 @@
 - **Community Involvement**: Engaged in tech communities and meetups.
 
 ## 🏆 Achievements
-
 
 ## 💬 Let's Connect!
 
