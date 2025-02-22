@@ -39,7 +39,7 @@
 ## 📚 Projects
 
 - [Minishell](https://github.com/Mamine777/MiniShell) - rewriting shell using C.
-- [SoLong](https://github.com/Mamine777/So_Long) - creating a 2 game using C.
+- [SoLong](https://github.com/Mamine777/cub3D) - creating a 3d game using C.
 - [Philosophers](https://github.com/Mamine777/Philisopher) - creating a program that solves the multiple thread complex using C.
 
 ## 🌟 Highlights
